@@ -6,7 +6,7 @@ A mostly reasonable collection of technical interview questions solved in Javasc
 * Javascript objects
 * Prototypal inheritance
 * Scoping and hosting
-* Closures
+* [Closures](#Closures)
 * JavaScript Callback (Higher-Order) Functions
 * The event loop
 * Event bubbling
@@ -44,3 +44,8 @@ A mostly reasonable collection of technical interview questions solved in Javasc
 * Merge sort
 * Quick sort
 * Selection sort
+
+
+# Closures
+
+* [A closer look at JavaScript closures](https://dev.to/bnevilleoneill/a-closer-look-at-javascript-closures-higher-order-functions-and-currying-4ng9)
