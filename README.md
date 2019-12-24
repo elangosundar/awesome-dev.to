@@ -78,3 +78,7 @@ A mostly reasonable collection of technical interview questions solved in Javasc
 # localstorage
 
 # Map, filter, reduce , sort of arrays
+
+# Thanks
+
+Thanks to Dev.to team
